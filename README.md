@@ -6,7 +6,6 @@ Welcome to the Employees Management System project! This project is designed to 
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
